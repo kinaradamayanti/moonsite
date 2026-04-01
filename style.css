@@ -1,8 +1,8 @@
 body{
-  background: #DDD3C9;
-  color:#B97D7B;
+  background: #F8CCAA;
+  color:#525871;
   width:100%;
-  font-family: sans-serif;
+  font-family: Old-Standard-TT;
   margin:0 auto;
 }
 
@@ -11,7 +11,7 @@ body{
   margin:auto;
   height:120px;
   line-height:120px;
-  background: #B97D7B;
+  background: #525871;
   color:#fff;
 }
 
@@ -20,7 +20,7 @@ body{
 }
 
 .menu{
-  background-color:#ECC4C3;
+  background-color:#857C91;
   height: 50px;
   line-height:50px;
   position:relative;
@@ -43,7 +43,7 @@ body{
 }
 
 .menu ul li a:hover {
-  background-color: #943276;
+  background-color: #CD9FA0;
   display:block;
 }
 
@@ -57,7 +57,7 @@ body{
 }
 
 .border{
-  border: 2px solid #4F0B3A;
+  border: 2px solid #857C91;
   margin-top:1pc;
   padding-bottom:1pc;
   padding-left:2pc;
@@ -89,7 +89,7 @@ body{
   margin:auto;
   height:40px;
   line-height:40px;
-  background:#417aa8;
+  background:#F5B289;
   color:#fff;
   margin-bottom: 1pc;
 }
